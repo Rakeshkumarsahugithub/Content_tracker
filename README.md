@@ -1,7 +1,5 @@
 # Contest Tracker 🏆
 
-
-![Contest Tracker](https://via.placeholder.com/800x400.png?text=Contest+Tracker+Demo) *Replace with actual screenshot*
 A **modern web application** to track programming contests from popular platforms like Codeforces, CodeChef, and LeetCode. Stay updated with upcoming contests, bookmark your favorites, and manage solutions—all in one place!
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
