@@ -5,9 +5,10 @@
 A **modern web application** to track programming contests from popular platforms like Codeforces, CodeChef, and LeetCode. Stay updated with upcoming contests, bookmark your favorites, and manage solutions—all in one place!
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green)](https://www.mongodb.com/)
+[![Express](https://img.shields.io/badge/Express-4.18.1-blue)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green)](https://www.mongodb.com/)
 
 ---
 
