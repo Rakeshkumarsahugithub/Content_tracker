@@ -1,22 +1,36 @@
 # Contest Tracker 🏆
 
-A web application to track programming contests from popular platforms with bookmarking capabilities and solution management.
 
 ![Contest Tracker Demo](https://via.placeholder.com/800x400.png?text=Contest+Tracker+Demo) *Replace with actual screenshot*
+A **modern web application** to track programming contests from popular platforms like Codeforces, CodeChef, and LeetCode. Stay updated with upcoming contests, bookmark your favorites, and manage solutions—all in one place!
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green)](https://www.mongodb.com/)
+
+---
 
 ## Features ✨
 
-- **Multi-Platform Contest Tracking**  
-  View contests from Codeforces, CodeChef, and LeetCode
-- **Smart Bookmarking**  
-  Save favorite contests with persistent storage
-- **Admin Panel**  
-  Manage contest solutions with YouTube links
-- **Theme Switching**  
-  Toggle between light/dark modes
-- **Responsive Design**  
-  Works seamlessly on all devices
-- **Solution Repository**  
-  Organized storage of contest solutions
-- **Intuitive Filtering**  
-  Filter contests by platform﻿# Content_tracker
+### **Contest Tracking**
+- 📅 View **upcoming** and **past** contests
+- 🎯 Filter contests by platform (Codeforces, CodeChef, LeetCode)
+- ⏰ Countdown timer for upcoming contests
+
+### **Bookmarking**
+- ⭐ Bookmark your favorite contests
+- 📂 Persistent storage for bookmarks
+- 🔄 Sync bookmarks across sessions
+
+### **Solution Management**
+- 🎥 Add YouTube links for contest solutions
+- 🔍 Search and view solutions for past contests
+- 🛠️ Admin panel for managing solutions
+
+### **User Experience**
+- 🌞🌙 Light/Dark theme toggle
+- 📱 Fully responsive design
+- 🚀 Fast and intuitive interface
+
+
